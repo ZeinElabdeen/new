@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="ico_24_arrows_next_ui" data-name="ico / 24 / arrows / next_ui" transform="translate(32 32) rotate(180)">
+    <rect id="Bounding_box" data-name="Bounding box" width="32" height="32" fill="rgba(255,255,255,0)"/>
+    <path id="Icon_color" data-name="Icon color" d="M.148,2.69A.861.861,0,0,1,0,2.193a.861.861,0,0,1,.148-.5L1.208.212A.431.431,0,0,1,1.558,0a.431.431,0,0,1,.35.212L11.1,13.078a1.292,1.292,0,0,1,.22.742v.364a1.292,1.292,0,0,1-.22.742L1.908,27.791a.431.431,0,0,1-.35.212.431.431,0,0,1-.35-.212L.148,26.307a.909.909,0,0,1,0-.994L8.228,14Z" transform="translate(10.897 1.998)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="45" viewBox="0 0 98 45">
+  <g id="Payment_1" data-name="Payment 1" transform="translate(-301 -208)">
+    <g id="Group_427" data-name="Group 427" transform="translate(155 101)">
+      <rect id="Rectangle_723" data-name="Rectangle 723" width="98" height="45" rx="6" transform="translate(146 107)" fill="#fff"/>
+      <path id="Icon_metro-credit-card" data-name="Icon metro-credit-card" d="M30.527,5.784H5.463A2.9,2.9,0,0,0,2.571,8.676V26.028a2.9,2.9,0,0,0,2.892,2.892H30.527a2.9,2.9,0,0,0,2.892-2.892V8.676a2.9,2.9,0,0,0-2.892-2.892ZM5.463,7.712H30.527a.977.977,0,0,1,.964.964v2.892H4.5V8.676a.977.977,0,0,1,.964-.964Zm25.064,19.28H5.463a.977.977,0,0,1-.964-.964V17.352H31.491v8.676a.977.977,0,0,1-.964.964Zm-24.1-5.784H8.355v3.856H6.427Zm3.856,0h1.928v3.856H10.283Zm3.856,0h1.928v3.856H14.139Z" transform="translate(177.429 112.216)" fill="#0aa696"/>
+    </g>
+  </g>
+</svg>

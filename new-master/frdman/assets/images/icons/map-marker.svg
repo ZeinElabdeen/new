@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1151" data-name="Rectangle 1151" width="50" height="50" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ico_24_map_places_poi_remove" data-name="ico / 24 / map &amp; places / poi_remove" clip-path="url(#clip-path)">
+    <rect id="Bounding_box" data-name="Bounding box" width="50" height="50" fill="rgba(255,255,255,0)"/>
+    <path id="Icon_color" data-name="Icon color" d="M23.515,47.376q-.074,0-.147,0H21.795q-.074,0-.147,0a2.805,2.805,0,0,1-2.657-1.613l-1.429-3.647c-1.341-3.377-4.346-5.391-7.525-7.524C5.1,31.284,0,27.864,0,18.95,0,8.5,10.067,0,22.441,0S44.882,8.5,44.882,18.95c0,8.9-5.025,12.316-9.885,15.623-3.141,2.137-6.109,4.156-7.4,7.543l-1.429,3.647a2.805,2.805,0,0,1-2.657,1.613ZM12.623,16.581a1.309,1.309,0,0,0-1.4,1.184v2.369a1.309,1.309,0,0,0,1.4,1.184H32.26a1.309,1.309,0,0,0,1.4-1.184V17.766a1.309,1.309,0,0,0-1.4-1.184Z" transform="translate(2.493 1.247)"/>
+  </g>
+</svg>

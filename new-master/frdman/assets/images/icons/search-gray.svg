@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="43" viewBox="0 0 43 43">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="43" height="43" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ico_24_actions_search" data-name="ico / 24 / actions / search" opacity="0.7" clip-path="url(#clip-path)">
+    <rect id="Bounding_box" data-name="Bounding box" width="43" height="43" fill="rgba(255,255,255,0)"/>
+    <path id="Icon_color" data-name="Icon color" d="M36.393,39a1.077,1.077,0,0,1-.77-.322L26.958,30a5.813,5.813,0,0,1-.651-.782l-1.624-2.168a15.22,15.22,0,0,1-9.466,3.319h-.051A15.188,15.188,0,0,1,8.6,1.5,15.144,15.144,0,0,1,27.057,5.766a15.2,15.2,0,0,1-.1,18.964l2.166,1.5a5.355,5.355,0,0,1,.932.759l8.665,8.678a1.084,1.084,0,0,1-.043,1.5l-1.517,1.517A1.082,1.082,0,0,1,36.393,39ZM15.216,4.338A10.851,10.851,0,1,0,26.047,15.186,10.853,10.853,0,0,0,15.216,4.338Z" transform="translate(2 2)"/>
+  </g>
+</svg>

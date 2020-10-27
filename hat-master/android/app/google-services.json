@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344505145354",
+    "firebase_url": "https://haat-e9d98.firebaseio.com",
+    "project_id": "haat-e9d98",
+    "storage_bucket": "haat-e9d98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344505145354:android:19ed336bc122824c8c27f3",
+        "android_client_info": {
+          "package_name": "com.tqnee.packagename.haat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344505145354-o1bj10e3l6ht8tchnpvnbpbo39m97gm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tqnee.packagename.haat",
+            "certificate_hash": "cd8f186d406a794083b4a14d6aa55b1e374e7760"
+          }
+        },
+        {
+          "client_id": "344505145354-douqi7145d7ejjgtvnao797p68048p7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7yHVdZpPcdta7c_9m27J5QLP2O-Iq_RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344505145354-douqi7145d7ejjgtvnao797p68048p7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

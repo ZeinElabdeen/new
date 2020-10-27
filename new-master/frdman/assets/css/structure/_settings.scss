@@ -1,0 +1,33 @@
+/*
+    typed..Zeinab Nasser
+*/
+
+$white-color: #ffffff;
+$main-color: #000000;
+$second-color:#8A078C;
+$third-color: #0ABFAD;
+$font-color: #707070;
+$bg-gray: #F1F1F1;
+$p-color: #989898;
+$radius: 10px;
+$bar-width: 16px;
+$bar-height: 2px;
+$bar-spacing: 5px;
+
+%shadow {
+  -webkit-box-shadow: 0px 5px 14.25px 0.75px rgba(36, 11, 12, 0.05);
+  box-shadow: 0px 5px 14.25px 0.75px rgba(36, 11, 12, 0.05);
+}
+
+%ease {
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+/* fonts */
+@import url('https://fonts.googleapis.com/css?family=Cairo:300,400,600,700&display=swap&subset=arabic');
+
+$font-regular: 'Cairo',
+sans-serif;

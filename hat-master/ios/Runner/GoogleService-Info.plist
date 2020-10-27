@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>344505145354-2hehrolkh8dotdp8meq3ua34b8fhorsd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.344505145354-2hehrolkh8dotdp8meq3ua34b8fhorsd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>344505145354-o1bj10e3l6ht8tchnpvnbpbo39m97gm2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlnNr9b0IzzUMvWyqhtKQnZgq9XfA8IVs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>344505145354</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tqnee.packagename.haat</string>
+	<key>PROJECT_ID</key>
+	<string>haat-e9d98</string>
+	<key>STORAGE_BUCKET</key>
+	<string>haat-e9d98.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:344505145354:ios:02ae1b1b2f70f3798c27f3</string>
+	<key>DATABASE_URL</key>
+	<string>https://haat-e9d98.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>register-account</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.ico">
+    <link rel="stylesheet" href="assets/css/bootstrap/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/fontawesome-free-5.11.2-web/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/jquery.pinlogin.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<section class="activation-code">
+    <div class="container">
+        <div class="back">
+            <a href="register-account.html" class="icon-back"><i class="fa fa-long-arrow-alt-right"></i></a>
+        </div>
+        <div class="name">
+            <h3>كود التفعيل</h3>
+            <p>قم بكتابة كود التفعيل الذي تم إرساله <br>علي الرقم الخاص بك</p>
+            <span class="d-block key-number">
+                    <span class="number">0502541254125</span>
+                </span>
+        </div>
+        <form class="control-group">
+            <div class="verification">
+
+                <div id="pinwrapper"></div>
+
+            </div>
+            <div class="form-group button-link">
+                <a class="button" href="home.html">
+                    تفعيل الحساب
+                </a>
+            </div>
+            <div class="timer-box">
+                    <span class="timer text-center d-block">
+                        <span class="time"></span>
+                    </span>
+                <div class="col-md-12">
+                    <div class="form-group">
+                        <p class="text-center link1"><a href="#" class="signin">لم يصل الكود بعد ؟</a></p>
+                        <p class="text-center link1"><a href="#" class="signin2">قم بالإرسال مره أخري</a></p>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</section>
+
+<script src="assets/js/jquery/jquery.min.js"></script>
+<script src="assets/js/popper/popper.min.js"></script>
+<script src="assets/js/bootstrap/bootstrap.min.js"></script>
+<script src="assets/js/owl.carousel.min.js"></script>
+<script src="assets/js/jquery.countdown.min.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/jquery.pinlogin.js"></script>
+<script type="text/javascript" charset="utf-8">
+    $(function () {
+
+        $(".time").countdown360({
+            radius      : 100,
+            seconds     : 59,
+            strokeWidth : 15,
+            fillStyle   : '#dddddd',
+            strokeStyle : '#7a3844',
+            fontSize    : 55,
+            fontColor   : '#7a3844',
+            autostart: false,
+            onComplete  : function () { console.log('completed') }
+        }).start()
+
+
+        $('#pinwrapper').pinlogin({
+            fields: 4,
+
+            complete: function (pin) {
+                alert('Awesome! You entered: ' + pin);
+
+                // further processing here
+            },
+
+            /* Additional callbacks */
+            /*
+            invalid : function (field, nr)
+            {
+                console.log (nr + ' is invalid');
+            },
+
+            keydown : function (e, field, nr)
+            {
+                console.log (nr + ' keydown');
+            },
+
+            input : function (e, field, nr)
+            {
+                console.log (nr + ' input');
+            }*/
+
+        });
+    });
+</script>
+</body>
+</html>
+
